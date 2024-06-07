@@ -2,10 +2,7 @@
 GLOBAL SOLUTION 1º Semestre 2024 de Python
 Projeto de Monitoramento de Qualidade da Água
 
-<h1>Vídeo:</h1>
-https://youtu.be/srrtl1I8-tY
-
-<br>
+<h1>Vídeo:</h1> https://youtu.be/srrtl1I8-tY
 
 
 <table>

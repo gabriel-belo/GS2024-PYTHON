@@ -1,24 +1,31 @@
 # GS2024-PYTHON
 GLOBAL SOLUTION 1º Semestre 2024 de Python
-<h1>Projeto de Monitoramento de Qualidade da Água</h1>h1>
+<h1>Projeto de Monitoramento de Qualidade da Água</h1>
 
 <h1>Vídeo:</h1>
 https://youtu.be/srrtl1I8-tY
 
 
 
- Alunos
+<table>
+  <tr>
+    <th> Nome </th>
+    <th> RM </th>
+  </tr>
+  <tr>
+    <td> Gabriel Belo </td>
+    <td> 551669 </td>
+  </tr>
+  <tr>
+    <td>Gustavo Pierre</td>
+    <td>558928</td>
+  </tr>
+  <td> Gabriel Galerani </td>
+  <td> 557421 </td>
+</table>
 
-Nome: Gabriel Belo
-RM : 551669
 
-Nome: Gabriel Galerani Almeida
-RM: 557421
-
-Nome: Gustavo Pierri 
-RM: 558928
-
- Descrição do Projeto
+Descrição do Projeto
 
 Este projeto consiste em um sistema de monitoramento de qualidade da água, que verifica os níveis de temperatura, pH e oxigênio dissolvido em amostras de água. Utilizando dados aleatórios gerados para simular leituras de sensores, o sistema verifica se esses dados estão dentro dos limites aceitáveis e gera alertas caso algum valor esteja fora dos parâmetros estabelecidos. Além disso, gráficos são gerados para visualizar as tendências dos dados coletados.
 
